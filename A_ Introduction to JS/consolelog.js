@@ -4,3 +4,4 @@ console.log(true, null, 13, "sanket");
 
 process.stdout.write("hello");
 process.stdout.write("world");
+// p
